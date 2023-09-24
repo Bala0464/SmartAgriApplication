@@ -308,10 +308,10 @@ class ChildApp(GridLayout):
 
 
 
-class ParentApp(App):
+class smartagricultureapp(App):
     def build(self):
         return ChildApp()
 
 
 if __name__ == "__main__":
-    ParentApp().run()
+    smartagricultureapp().run()
