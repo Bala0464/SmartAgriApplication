@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = SampleApp
+title = smartagricultureapp
 
 # (str) Package name
 package.name = smartagricultureapp
